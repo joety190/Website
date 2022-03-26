@@ -1,0 +1,70 @@
+img {
+    float: middle;
+    height: 180px;
+}
+
+body {
+    background-color:rgb(127, 167, 125);
+}
+h1 {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+h3 {
+    text-align: center;
+
+}
+div {
+    text-align: center;
+    image-rendering: crisp-edges;  
+    text-size-adjust: 80px;
+    
+}
+ol {
+    text-align: center;
+    text-decoration: solid;
+    color: goldenrod;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   align-content: center;
+   list-style-type: none;
+}
+
+table {
+    background-color: gray;
+    text-align-last: center;
+    border-color: black;
+    align-items: center;
+
+}
+
+td {
+    text-align: center;
+    color: goldenrod;
+    
+}
+h4 {
+    text-size-adjust: 80px;
+}
+
+form {
+    text-align: left;
+    cursor: pointer;
+
+}
+.navbar{
+    padding: 20px;
+    border-style: solid;
+    border-width: 10px;
+    margin: 30px;
+    cursor: pointer;
+    justify-content:center
+
+}
+
+img {
+    height: 180;
+}
+
